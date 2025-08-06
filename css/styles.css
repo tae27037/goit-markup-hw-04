@@ -147,6 +147,7 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0;
     
 }
 .title-name {
@@ -287,6 +288,7 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
+        margin-bottom: 8px;
 }
 .team-info {
     padding: 32px 0; 
@@ -413,7 +415,6 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 }
 .footer-container{
     display: flex;
-    gap: 16px;
     align-items: baseline;
 }
 .logo-paragraf{
